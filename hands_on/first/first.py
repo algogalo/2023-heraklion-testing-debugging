@@ -6,3 +6,5 @@ def times_3(x):
     x : The item to multiply by 3.
     """
     return x * 3
+
+print(times_3([1]))
